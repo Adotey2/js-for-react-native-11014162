@@ -6,4 +6,4 @@ existing one in which even numbers in the original array are squared and odd num
 Task2- Here an additional array was created to contain strings, l wrote a code to make  element of the string array to be written in all capital letters
 and in all lower case letters depending on the whether the coresponding element in the numbers array is even or not(here i used the index of elements to make the code)
 
-Task3-
+Task3-Here l created user profiles using the modified names, original names and indexes(to make ids) l also exported the arrayManipulation.js file into the userInfo.js file
